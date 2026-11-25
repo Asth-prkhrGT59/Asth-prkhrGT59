@@ -24,7 +24,7 @@
 
 ---
 
-⭐ Always learning, always building, always growing!## Hi there 👋
+⭐ Always learning, always building, always growing!
 
 <!--
 **Asth-prkhrGT59/Asth-prkhrGT59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
