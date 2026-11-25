@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Prakhar Asthana
 
-🎓 B.Tech CSE (AI & ML) Student at UIET, Kurukshetra University.
+🎓 B.Tech CSE (AI & ML) Student at UIET Kurukshetra, Kurukshetra University.
 
 💻 Aspiring Technophile | Exploring Programming, AI & Emerging Technologies.
 
